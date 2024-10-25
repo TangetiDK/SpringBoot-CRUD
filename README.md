@@ -12,7 +12,6 @@ A comprehensive CRUD application designed to manage employee records. This proje
 - Backend: Java Spring Boot
 - Database: MySQL
 
-# Setup and Installation
 # Prerequisites
 - Node.js
 - Java JDK
